@@ -1,1 +1,1 @@
-{"name":"My Pretty Glow Up 🎀","short_name":"Pretty Glow 🎀","start_url":"/","display":"standalone","background_color":"#fff5f8","theme_color":"#f8dce8","icons":[{"src":"/icon.png?v=2","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{"name":"My Pretty Glow Up 🎀","short_name":"Pretty Glow 🎀","start_url":"/","display":"standalone","background_color":"#fff5f8","theme_color":"#f8dce8","icons":[{"src":"./apple-touch-icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
