@@ -9,12 +9,5 @@
   "background_color": "#fff5f8",
   "theme_color": "#f8dce8",
   "lang": "fr",
-  "icons": [
-    {
-      "src": "./apple-touch-icon.png?v=4",
-      "sizes": "180x180",
-      "type": "image/png",
-      "purpose": "any"
-    }
-  ]
+  "icons": [{"src":"./apple-touch-icon.png?v=5","sizes":"180x180","type":"image/png","purpose":"any"}]
 }
